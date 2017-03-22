@@ -1,4 +1,4 @@
-Lesti_Blog
+Magentosaigon_Blog
 ==========
 
-A little Blog-System for Magento
+A little Blog-System fork from Lesti_Blog
